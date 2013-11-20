@@ -1,8 +1,8 @@
-## Description
+### Description
 
 A micro-plugin to autocorrect a few of my common fat-fingerings in Vim.
 
-## Installation
+### Installation
 
 I recommend installing [pathogen.vim](https://github.com/tpope/vim-pathogen),
 and then executing:
