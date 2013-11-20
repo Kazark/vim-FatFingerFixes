@@ -1,3 +1,15 @@
-## FatFingerFixes
+## Description
 
 A micro-plugin to autocorrect a few of my common fat-fingerings in Vim.
+
+## Installation
+
+I recommend installing [pathogen.vim](https://github.com/tpope/vim-pathogen),
+and then executing:
+
+    cd ~/.vim/bundle
+    git clone https://github.com/Kazark/vim-FatFingerFixes.git
+
+or the equivalent. Alternatively, you can copy `plugin/FatFingerFixes.vim`
+to `~/.vim/plugin`. (Note: you may have to use `~\vimfiles` instead of
+`~/.vim` if you are on Windows...)
