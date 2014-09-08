@@ -17,4 +17,7 @@ cnoremap wq'<CR> wq<CR>
 " I often hold down <Shift> too long when typing :noh
 cnoremap Noh noh
 
+" On some keyboards, it's easy to hit \ when you meant ]
+nnoremap \s ]s
+
 let &cpo = s:save_cpo
